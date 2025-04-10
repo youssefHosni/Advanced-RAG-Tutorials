@@ -1,5 +1,5 @@
 # Advanced-RAG-Tutorials
-A hands-on advanced RAG tutorials 
+A hands-on advanced RAG tutorial 
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://youssefh.substack.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yousefhosni)
